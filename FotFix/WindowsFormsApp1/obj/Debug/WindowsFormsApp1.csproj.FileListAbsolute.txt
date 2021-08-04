@@ -1,0 +1,20 @@
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\Spor Toto Kura\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mertcan\Documents\Visual Studio 2019\Projeler\FotFix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
